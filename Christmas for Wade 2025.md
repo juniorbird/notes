@@ -1,5 +1,6 @@
 ---
 share: "true"
+banner: https://cdn.abcotvs.com/dip/images/15431178_christmasgifts.jpg
 ---
 ## Clothing
 - [CloudMotion long-sleeve t-shirt](https://oldnavy.gap.com/browse/product.do?pid=7879360320004&vid=1&pcid=1053127&cid=1053127&nav=meganav%3AMen%3AActive%3AActivewear+Tops#pdp-page-content) in XL (for workouts)
